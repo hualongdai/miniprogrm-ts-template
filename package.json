@@ -1,0 +1,42 @@
+{
+  "name": "miniprogrm-ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualongdai/miniprogrm-ts-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hualongdai/miniprogrm-ts-template/issues"
+  },
+  "homepage": "https://github.com/hualongdai/miniprogrm-ts-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@types/node": "^12.12.4",
+    "babel-cli": "^6.26.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-ts-path-alias": "^1.0.3",
+    "gulp-typescript": "^5.0.1",
+    "gulp-uglify-es": "^2.0.0",
+    "miniprogram-api-typings": "^2.9.0",
+    "through2": "^3.0.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {}
+}

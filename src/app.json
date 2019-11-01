@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/demo/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fff"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序演示demo"
+    }
+  }
+}
